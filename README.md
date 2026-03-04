@@ -11,7 +11,7 @@ My social:
 [![gmail](https://img.shields.io/badge/--090909?style=for-the-badge&logo=gmail&logoColor=#EA4335)](mailto:gameru13024@gmail.com)
 [![hh](https://img.shields.io/badge/-hh.ru-090909?style=for-the-badge&logo=&logoColor=1072EC)](https://hh.ru/resume/3d9e1a8bff101779a30039ed1f483846303869)
 
-за что шарю ?
+за что шарю ?⬇️⬇️⬇️
 ## Test documentation:
 
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira&logoColor=1072EC)
