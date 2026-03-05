@@ -15,7 +15,6 @@ My social:
 ## Test documentation:
 
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira&logoColor=1072EC)
-![yuo](https://img.shields.io/badge/-youtrack-090909?style=for-the-badge&logo=youtrack&logoColor=1072EC)
 
 ## Test web:
 
