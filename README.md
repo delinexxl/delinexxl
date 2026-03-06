@@ -3,13 +3,12 @@
 ## Junior QA engineer
 
 ## About me: 
-Люблю "уходить с головой"  в дело,быть преданным команде/компании, коммуницировать, филосовствовать.Могу быстро обучаться ,проявлять инициативу и брать большую ответственность .Стремлюсь к освоению автоматизации.Сейчас работаю над пет проектами
+Люблю "уходить с головой"  в дело, открыто общаться, филосовствовать и нестандартно мыслить.Могу быстро обучаться ,проявлять инициативу и брать ответственность .Стремлюсь к освоению автоматизации.Сейчас работаю над пет проектами
 
 My social:
 
 [![tg](https://img.shields.io/badge/--090909?style=for-the-badge&logo=telegram&logoColor=1072EC)](https://t.me/qeqoqeq111)
 [![gmail](https://img.shields.io/badge/--090909?style=for-the-badge&logo=gmail&logoColor=#EA4335)](mailto:gameru13024@gmail.com)
-[![hh](https://img.shields.io/badge/-hh.ru-090909?style=for-the-badge&logo=&logoColor=1072EC)](https://hh.ru/resume/3d9e1a8bff101779a30039ed1f483846303869)
 
 ⬇️⬇️⬇️за что шарю⬇️⬇️⬇️
 ## Test documentation:
