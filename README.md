@@ -28,7 +28,6 @@ My social:
 ## Test mobile:
 
 ![as](https://img.shields.io/badge/Androidstudio-090909?style=for-the-badge&logo=androidstudio&logoColor=#FCDC00)
-![xcode](https://img.shields.io/badge/xcode-090909?style=for-the-badge&logo=xcode&logoColor=23B5EC)
 
 ## Working with data:
 
