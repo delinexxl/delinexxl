@@ -35,6 +35,7 @@ My social:
 ## Working with data:
 
 ![mysql](https://img.shields.io/badge/mysql-090909?style=for-the-badge&logo=mysql&logoColor=00618A)
+![Postgresql](https://img.shields.io/badge/Postgresql-090909?style=for-the-badge&logo=Postgresql&logoColor=00618A)
 ![mongo](https://img.shields.io/badge/mongodb-090909?style=for-the-badge&logo=mongodb&logoColor=00618A)
 
 ## Data management:
