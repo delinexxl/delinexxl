@@ -15,7 +15,7 @@ My social:
 ## Test documentation:
 
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira&logoColor=1072EC)
-![youtrack](https://img.shields.io/badge/-youtrack-090909?style=for-the-badge&logo=Youtrack&logoColor=1072EC)\
+![youtrack](https://img.shields.io/badge/-youtrack-090909?style=for-the-badge&logo=Youtrack&logoColor=1072EC)
 
 ## Test tools:
 
