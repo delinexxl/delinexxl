@@ -16,7 +16,6 @@ My social:
 
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira&logoColor=1072EC)
 ![youtrack](https://img.shields.io/badge/-youtrack-090909?style=for-the-badge&logo=Youtrack&logoColor=1072EC)\
-Пример оформления баг трекера(кликабельно) :[![tw](https://img.shields.io/badge/--090909?style=for-the-badge&logo=Jira&logoColor=1072EC)](https://gameru13024.atlassian.net/jira/software/projects/KAN/list?jql=project+%3D+KAN+ORDER+BY+created+DESC&atlOrigin=eyJpIjoiYTcwZTdmZTE2ZDk3NDdhM2JkMzUxMjlmMmEwNGRjM2QiLCJwIjoiaiJ9)
 
 ## Test tools:
 
