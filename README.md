@@ -4,8 +4,8 @@
 
 ## About me: 
 Могу работать за компьютером бесконечное количество времени.\
-Учусь автоматизировать на питоне по гайдам с ютуба.\
-Хочу стать QA Fullstack.\
+road to autoqa.\
+goal: QA Fullstack.\
 My social:
 
 [![tg](https://img.shields.io/badge/--090909?style=for-the-badge&logo=telegram&logoColor=1072EC)](https://t.me/qeqoqeq111)
