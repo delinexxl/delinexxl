@@ -1,6 +1,6 @@
 ![Header](https://github.com/delinexxl/delinexxl/blob/main/assets/channels4_banner.jpg)
 
-## Junior QA engineer
+## MIddle QA engineer
 
 ## About me: 
 Могу работать за компьютером бесконечное количество времени.\
