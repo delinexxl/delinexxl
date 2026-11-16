@@ -46,3 +46,7 @@ My social:
 ![bash](https://img.shields.io/badge/bash-090909?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
 ![vs](https://img.shields.io/badge/VSCODE-090909?style=for-the-badge&logo=vscode&logoColor=00618A)
 ![py](https://img.shields.io/badge/Pycharm-090909?style=for-the-badge&logo=python&logoColor=00618A)
+
+
+
+![Footer](https://github.com/delinexxl/delinexxl/blob/main/assets/85712-sword.jfif)
