@@ -49,4 +49,4 @@ My social:
 
 
 
-![Footer](https://github.com/delinexxl/delinexxl/blob/main/assets/85712-sword.jfif)
+![Footer](https://github.com/delinexxl/delinexxl/blob/main/assets/1.gif)
