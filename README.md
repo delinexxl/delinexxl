@@ -8,7 +8,7 @@ road to autoqa.\
 goal: QA Fullstack.\
 My social:
 
-[![tg](https://img.shields.io/badge/--090909?style=for-the-badge&logo=telegram&logoColor=1072EC)](https://t.me/qeqoqeq111)
+[![tg](https://img.shields.io/badge/--090909?style=for-the-badge&logo=telegram&logoColor=1072EC)](https://t.me/qeqoqeq101)
 [![gmail](https://img.shields.io/badge/--090909?style=for-the-badge&logo=gmail&logoColor=#EA4335)](mailto:gameru13024@gmail.com)
 
 ⬇️⬇️⬇️за что шарю⬇️⬇️⬇️
